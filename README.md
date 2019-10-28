@@ -1,5 +1,5 @@
 # Личный проект
-* Студент: ElizavetaGanzheliuk.
+* Студент: ElizavetaLitvinova.
 ---
 
 **Обратите внимание на файл:**
